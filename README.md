@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Join the chat at https://gitter.im/CSCO-DevOps-Bootcamp/ReferenceRepo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CSCO-DevOps-Bootcamp/ReferenceRepo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Stories in Ready](https://badge.waffle.io/CSCO-DevOps-Bootcamp/ReferenceRepo.png?label=ready&title=Stories%20Ready)](https://waffle.io/CSCO-DevOps-Bootcamp/ReferenceRepo)
 
@@ -15,3 +16,14 @@ Teams can catch up by rebasing the solution branches on their own repos in the e
 Additoinally there are several datafeed branches that contain datasources for the fictional application.
 The datafeeds branch will be reset throughout the day to various milestone branches to emulate a changing data feed.
 
+=======
+# Application Name  
+This is the readme file for your social media application.
+Customize it to aid in your marketing campaign and to inform the world of your progress.
+Starting with a description is always a sound approach
+
+# Some Content Ideas
+## Audience
+## Roadmap
+## Release Notes
+>>>>>>> 3434f0173018672108f6b4493c784d3d294b884c
